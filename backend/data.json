@@ -1,0 +1,402 @@
+[
+    {
+      "id": 1,
+      "name": "TechVision AI",
+      "sector": "Artificial Intelligence",
+      "location": "San Francisco, CA",
+      "funding_stage": "Series B",
+      "description": "Building next-generation computer vision systems for autonomous vehicles and robotics using deep learning.",
+      "founded": "2020",
+      "team_size": 45
+    },
+    {
+      "id": 2,
+      "name": "GreenEarth Solutions",
+      "sector": "CleanTech",
+      "location": "Portland, OR",
+      "funding_stage": "Series A",
+      "description": "Developing sustainable packaging solutions from biodegradable materials to reduce plastic waste.",
+      "founded": "2019",
+      "team_size": 28
+    },
+    {
+      "id": 3,
+      "name": "HealthHub Connect",
+      "sector": "HealthTech",
+      "location": "Boston, MA",
+      "funding_stage": "Seed",
+      "description": "Telemedicine platform connecting patients with healthcare providers through AI-powered symptom analysis.",
+      "founded": "2021",
+      "team_size": 15
+    },
+    {
+      "id": 4,
+      "name": "FinFlow",
+      "sector": "FinTech",
+      "location": "New York, NY",
+      "funding_stage": "Series C",
+      "description": "Digital banking platform offering instant loans and personalized financial planning using machine learning.",
+      "founded": "2018",
+      "team_size": 120
+    },
+    {
+      "id": 5,
+      "name": "EduLearn Pro",
+      "sector": "EdTech",
+      "location": "Austin, TX",
+      "funding_stage": "Series A",
+      "description": "Interactive online learning platform with adaptive curriculum for K-12 students.",
+      "founded": "2020",
+      "team_size": 35
+    },
+    {
+      "id": 6,
+      "name": "FoodFresh Delivery",
+      "sector": "Food & Beverage",
+      "location": "Los Angeles, CA",
+      "funding_stage": "Series B",
+      "description": "Farm-to-table delivery service providing organic produce within 24 hours of harvest.",
+      "founded": "2019",
+      "team_size": 85
+    },
+    {
+      "id": 7,
+      "name": "CyberShield Security",
+      "sector": "Cybersecurity",
+      "location": "Seattle, WA",
+      "funding_stage": "Series A",
+      "description": "Enterprise cybersecurity solution using AI to detect and prevent advanced persistent threats.",
+      "founded": "2020",
+      "team_size": 42
+    },
+    {
+      "id": 8,
+      "name": "RoboHome",
+      "sector": "IoT",
+      "location": "San Jose, CA",
+      "funding_stage": "Seed",
+      "description": "Smart home automation system with voice-controlled devices and energy optimization.",
+      "founded": "2021",
+      "team_size": 18
+    },
+    {
+      "id": 9,
+      "name": "CloudSync Enterprise",
+      "sector": "SaaS",
+      "location": "Denver, CO",
+      "funding_stage": "Series B",
+      "description": "Cloud-based project management and collaboration tool for remote teams.",
+      "founded": "2019",
+      "team_size": 65
+    },
+    {
+      "id": 10,
+      "name": "BioGen Therapeutics",
+      "sector": "Biotechnology",
+      "location": "Cambridge, MA",
+      "funding_stage": "Series C",
+      "description": "Developing gene therapy treatments for rare genetic disorders using CRISPR technology.",
+      "founded": "2017",
+      "team_size": 95
+    },
+    {
+      "id": 11,
+      "name": "StyleAI Fashion",
+      "sector": "E-commerce",
+      "location": "Miami, FL",
+      "funding_stage": "Series A",
+      "description": "AI-powered fashion recommendation platform with virtual try-on technology.",
+      "founded": "2020",
+      "team_size": 30
+    },
+    {
+      "id": 12,
+      "name": "DroneLogix",
+      "sector": "Logistics",
+      "location": "Atlanta, GA",
+      "funding_stage": "Series B",
+      "description": "Autonomous drone delivery network for last-mile package delivery in urban areas.",
+      "founded": "2019",
+      "team_size": 55
+    },
+    {
+      "id": 13,
+      "name": "GameVerse Studios",
+      "sector": "Gaming",
+      "location": "Los Angeles, CA",
+      "funding_stage": "Seed",
+      "description": "Creating immersive VR gaming experiences with social multiplayer features.",
+      "founded": "2021",
+      "team_size": 22
+    },
+    {
+      "id": 14,
+      "name": "AgroTech Innovations",
+      "sector": "AgriTech",
+      "location": "Des Moines, IA",
+      "funding_stage": "Series A",
+      "description": "Precision agriculture platform using IoT sensors and AI for crop yield optimization.",
+      "founded": "2019",
+      "team_size": 38
+    },
+    {
+      "id": 15,
+      "name": "MediaStream Plus",
+      "sector": "Entertainment",
+      "location": "New York, NY",
+      "funding_stage": "Series C",
+      "description": "Streaming platform for independent content creators with integrated monetization tools.",
+      "founded": "2018",
+      "team_size": 110
+    },
+    {
+      "id": 16,
+      "name": "QuantumCompute Labs",
+      "sector": "Quantum Computing",
+      "location": "Palo Alto, CA",
+      "funding_stage": "Series B",
+      "description": "Developing quantum algorithms for drug discovery and materials science applications.",
+      "founded": "2019",
+      "team_size": 48
+    },
+    {
+      "id": 17,
+      "name": "PetCare Connect",
+      "sector": "Pet Services",
+      "location": "Chicago, IL",
+      "funding_stage": "Seed",
+      "description": "On-demand veterinary care and pet sitting services through a mobile app.",
+      "founded": "2021",
+      "team_size": 12
+    },
+    {
+      "id": 18,
+      "name": "BlockChain Finance",
+      "sector": "Blockchain",
+      "location": "Miami, FL",
+      "funding_stage": "Series A",
+      "description": "Decentralized finance platform for cryptocurrency lending and staking rewards.",
+      "founded": "2020",
+      "team_size": 32
+    },
+    {
+      "id": 19,
+      "name": "TravelSmart AI",
+      "sector": "Travel",
+      "location": "Las Vegas, NV",
+      "funding_stage": "Series A",
+      "description": "AI travel assistant providing personalized itineraries and real-time trip optimization.",
+      "founded": "2020",
+      "team_size": 26
+    },
+    {
+      "id": 20,
+      "name": "ConstructTech Pro",
+      "sector": "Construction",
+      "location": "Houston, TX",
+      "funding_stage": "Series B",
+      "description": "Construction management software with AR visualization and project tracking.",
+      "founded": "2019",
+      "team_size": 52
+    },
+    {
+      "id": 21,
+      "name": "NanoMaterials Corp",
+      "sector": "Materials Science",
+      "location": "Research Triangle, NC",
+      "funding_stage": "Series C",
+      "description": "Manufacturing advanced nanomaterials for electronics and renewable energy applications.",
+      "founded": "2017",
+      "team_size": 78
+    },
+    {
+      "id": 22,
+      "name": "FitnessPro AI",
+      "sector": "Fitness",
+      "location": "San Diego, CA",
+      "funding_stage": "Seed",
+      "description": "AI personal trainer app with computer vision for form correction and workout planning.",
+      "founded": "2021",
+      "team_size": 16
+    },
+    {
+      "id": 23,
+      "name": "LegalTech Solutions",
+      "sector": "LegalTech",
+      "location": "Washington, DC",
+      "funding_stage": "Series A",
+      "description": "Automated contract analysis and legal document generation using natural language processing.",
+      "founded": "2020",
+      "team_size": 34
+    },
+    {
+      "id": 24,
+      "name": "SpaceLogistics Inc",
+      "sector": "Aerospace",
+      "location": "Cape Canaveral, FL",
+      "funding_stage": "Series B",
+      "description": "Developing reusable satellite launch vehicles for small payload deployments.",
+      "founded": "2019",
+      "team_size": 88
+    },
+    {
+      "id": 25,
+      "name": "InsureTech Smart",
+      "sector": "InsurTech",
+      "location": "Hartford, CT",
+      "funding_stage": "Series A",
+      "description": "Usage-based insurance platform with IoT devices for personalized premium calculation.",
+      "founded": "2020",
+      "team_size": 29
+    },
+    {
+      "id": 26,
+      "name": "RealEstate Vision",
+      "sector": "PropTech",
+      "location": "Phoenix, AZ",
+      "funding_stage": "Seed",
+      "description": "Virtual reality property tours and AI-powered real estate valuation platform.",
+      "founded": "2021",
+      "team_size": 14
+    },
+    {
+      "id": 27,
+      "name": "MusicGen AI",
+      "sector": "Music Tech",
+      "location": "Nashville, TN",
+      "funding_stage": "Seed",
+      "description": "AI music composition tool for content creators and film scoring applications.",
+      "founded": "2021",
+      "team_size": 11
+    },
+    {
+      "id": 28,
+      "name": "EnergyStore Systems",
+      "sector": "Energy Storage",
+      "location": "San Francisco, CA",
+      "funding_stage": "Series C",
+      "description": "Next-generation battery technology for grid-scale renewable energy storage.",
+      "founded": "2018",
+      "team_size": 102
+    },
+    {
+      "id": 29,
+      "name": "RetailAI Analytics",
+      "sector": "Retail Tech",
+      "location": "Seattle, WA",
+      "funding_stage": "Series B",
+      "description": "Computer vision and analytics platform for retail inventory management and customer behavior.",
+      "founded": "2019",
+      "team_size": 58
+    },
+    {
+      "id": 30,
+      "name": "WaterPure Tech",
+      "sector": "Water Technology",
+      "location": "Phoenix, AZ",
+      "funding_stage": "Series A",
+      "description": "Advanced water filtration systems for industrial and residential applications.",
+      "founded": "2020",
+      "team_size": 31
+    },
+    {
+      "id": 31,
+      "name": "DataSecure Cloud",
+      "sector": "Cloud Computing",
+      "location": "Raleigh, NC",
+      "funding_stage": "Series B",
+      "description": "Encrypted cloud storage solution with zero-knowledge architecture for enterprise clients.",
+      "founded": "2019",
+      "team_size": 47
+    },
+    {
+      "id": 32,
+      "name": "BrainWave Neuro",
+      "sector": "Neurotechnology",
+      "location": "Boston, MA",
+      "funding_stage": "Series A",
+      "description": "Brain-computer interface technology for medical rehabilitation and assistive devices.",
+      "founded": "2020",
+      "team_size": 36
+    },
+    {
+      "id": 33,
+      "name": "AutoParts Direct",
+      "sector": "Automotive",
+      "location": "Detroit, MI",
+      "funding_stage": "Seed",
+      "description": "Online marketplace for automotive parts with AR-powered compatibility checking.",
+      "founded": "2021",
+      "team_size": 19
+    },
+    {
+      "id": 34,
+      "name": "SocialConnect Pro",
+      "sector": "Social Media",
+      "location": "San Francisco, CA",
+      "funding_stage": "Series B",
+      "description": "Professional networking platform with AI-powered job matching and skill assessments.",
+      "founded": "2019",
+      "team_size": 72
+    },
+    {
+      "id": 35,
+      "name": "ChemSynth AI",
+      "sector": "Chemical Technology",
+      "location": "Philadelphia, PA",
+      "funding_stage": "Series A",
+      "description": "AI-driven chemical synthesis planning for pharmaceutical and materials research.",
+      "founded": "2020",
+      "team_size": 40
+    },
+    {
+      "id": 36,
+      "name": "HRTech Solutions",
+      "sector": "HR Tech",
+      "location": "Atlanta, GA",
+      "funding_stage": "Series A",
+      "description": "Talent acquisition platform with AI resume screening and interview scheduling automation.",
+      "founded": "2020",
+      "team_size": 33
+    },
+    {
+      "id": 37,
+      "name": "Podcast Pro Studio",
+      "sector": "Media Tech",
+      "location": "Austin, TX",
+      "funding_stage": "Seed",
+      "description": "All-in-one podcast production platform with AI audio enhancement and distribution tools.",
+      "founded": "2021",
+      "team_size": 13
+    },
+    {
+      "id": 38,
+      "name": "MarineBot Systems",
+      "sector": "Marine Technology",
+      "location": "San Diego, CA",
+      "funding_stage": "Series B",
+      "description": "Autonomous underwater vehicles for ocean exploration and environmental monitoring.",
+      "founded": "2019",
+      "team_size": 44
+    },
+    {
+      "id": 39,
+      "name": "SmartFactory IoT",
+      "sector": "Industrial IoT",
+      "location": "Pittsburgh, PA",
+      "funding_stage": "Series A",
+      "description": "IoT platform for predictive maintenance and production optimization in manufacturing.",
+      "founded": "2020",
+      "team_size": 37
+    },
+    {
+      "id": 40,
+      "name": "VoiceGen AI",
+      "sector": "Voice Technology",
+      "location": "Seattle, WA",
+      "funding_stage": "Seed",
+      "description": "Text-to-speech synthesis with natural voice cloning for accessibility and content creation.",
+      "founded": "2021",
+      "team_size": 17
+    }
+  ]
