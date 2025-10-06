@@ -29,7 +29,7 @@ const HomePage: React.FC = () => {
 
     if (Isloading) {
         return <div className='flex h-dvh justify-center items-center'>
-            <LoaderCircle className='animate-spin' />
+            <LoaderCircle className='animate-spin h-8 w-8' />
         </div>
     }
 
