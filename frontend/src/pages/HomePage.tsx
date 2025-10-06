@@ -4,7 +4,7 @@ import { GetallStartup } from "@/api/startup"
 import type { StartupType } from "@/types"
 import SearchInput from '@/components/SearchInput'
 import StratupsTable from '@/components/StartupsTable'
-import { LoaderCircle, SplinePointer } from 'lucide-react'
+import { LoaderCircle } from 'lucide-react'
 
 const HomePage: React.FC = () => {
     const { OnSelectStartups, Startups } = useContext(StartupContext)
